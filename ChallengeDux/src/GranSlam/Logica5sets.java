@@ -9,9 +9,9 @@ public class Logica5sets {
 	 * 
 	 * utilizando dos arreglos (uno para los games del ganador y otro para los del perdedor).
 	 * 
-	 * el arreglo del ganador simular· numeros iguales a 6.
+	 * el arreglo del ganador simular√° numeros iguales a 6.
 	 * 
-	 * el arreglo de perdedor simular· numeros iguales o menores a 4.
+	 * el arreglo de perdedor simular√° numeros iguales o menores a 4.
 	 * 
 	 */
 
@@ -57,6 +57,10 @@ public class Logica5sets {
 
 				System.out.print(dato1);
 
+				System.out.print(" ");
+
+				System.out.print(dato1);
+				
 				System.out.print(" ");
 
 				System.out.print(dato1);
