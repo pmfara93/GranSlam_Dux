@@ -1,7 +1,6 @@
 # GranSlam_Dux
-Prueba Dux Software
-Para el equipo técnico:
-Prueba SQL (no completada):Problema con la herramienta workbench , en especial , cuando intenté crear la clave foránea de cada relación. Solo conozco una manera para hacerlo y no funcionó. Decidí desistir ; ya que , era preciso continuar con la otra parte de la prueba.
-Prueba Java (completada): El programa cuenta con una serie de clases , las cuales implementé para lograr un mejor mantenimiento del mismo ;es importante mencionar que cada una de estas clases, cuenta  con un encabezado donde se describe su funcionalidad. 
+El programa , pide una serie de Datos al usuario ( Nombre torneo , nombre jugadores , porcentaje de victorias de cada jugador y formato de sets ).
+Segun el porcentaje de victoria asignado a cada jugador por parte del usuario , es el resultado que se va a simular (siempre ganará el mayor porcentaje)
+El programa muestra por consola el nombre del jugador Ganador del torneo.
 
-Gracias equipo por este importante reto. Me sentí muy a gusto.
+Importante: Luego de asignar el porcentaje de victoria a cada jugador , se abre una ventana con las opciones de formato del partido ( 3 sets o 5 sets).Es posible que dicha ventana sea visible , minimizando el Ide. Luego de ingresar los sets , Abrir el Ide nuevamente.
